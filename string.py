@@ -8,6 +8,7 @@ print(main_name)
 x='hello world'
 print(x+'!!it is beautiful outside')
 letter='d'
+
 print(34*letter)
 
 
