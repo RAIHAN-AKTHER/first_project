@@ -2,6 +2,7 @@ name="raiham akther"
 print(name[7:])
 last_name=name[7:]
 print(last_name)
+
 main_name="nargis " + last_name
 print(main_name)
 x='hello world'
@@ -15,6 +16,7 @@ print(34*letter)
 print(name.upper())
 print(name.lower())
 print(name.split())
+
 y='i am a students of cumilla polytechnic '
 print(y.split())
 print(y.split('l'))
@@ -24,6 +26,7 @@ print(y.split('l'))
 print('my friends {} {} {} {}'.format('metu','setu','soni','raihan'))
 print('my friends {2} {1} {0}'.format('metu','setu','soni'))
 a= 'one'
+
 b='two'
 c='three'
 d='fore'
